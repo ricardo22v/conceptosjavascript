@@ -149,6 +149,6 @@ switch (payMethod) {
     }
 
     default:
-     console.log('No se puede pagar');
+     console.log('No se podrá pagar');
      break;
 }
