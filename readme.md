@@ -22,7 +22,7 @@ Existen muchos tipos de numeros, no solo enteros, tambien negativos, decimales, 
 3) Operador mayor a y Operador menor a: imprime en la consola el resultado como verdadero o falso, de acuerdo a los valores que le demos a nuestras variables
 4) Comparacion: Javascript es dinamicamente tipado y solo compara valores a menos que usemos la triple comparación estricta ===
 
-Consideraciones a tener en cuenta: 
+#### Consideraciones a tener en cuenta: 
 
 --> Cuando hacemos operaciones tenemos que recordar la jerarquia, siempre primero se hacen lo que se encuentra entre paréntesis: ( x + 1) - y
 
